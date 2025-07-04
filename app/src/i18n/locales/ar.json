@@ -1,0 +1,76 @@
+{
+  "app_name": "تطبيق أحداث Ticketmaster",
+  "splash_screen": {
+    "title": "مرحبًا بكم في تطبيق أحداث Ticketmaster",
+    "description": "استمتع بأفضل الأحداث في منطقتك."
+  },
+  "login": {
+    "title": "تسجيل الدخول",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "submit": "تسجيل الدخول",
+    "signupButton": "ليس لديك حساب؟ سجل الآن",
+    "error": "خطأ في تسجيل الدخول",
+    "fillFields": "يرجى ملء جميع الحقول"
+  },
+  "signup": {
+    "title": "إنشاء حساب",
+    "name": "الاسم",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "submit": "إنشاء حساب",
+    "passwordsNotMatch": "كلمتا المرور غير متطابقتين"
+  },
+  "home": {
+    "search_placeholder": "ابحث عن الأحداث...",
+    "events": "الأحداث",
+    "no_events": "لا توجد أحداث متاحة.",
+    "keyword": "كلمة البحث",
+    "city": "المدينة",
+    "search": "بحث",
+    "noResults": "لم يتم العثور على فعاليات.",
+    "error": "حدث خطأ أثناء تحميل الفعاليات."
+  },
+  "event_detail": {
+    "date": "التاريخ",
+    "location": "الموقع",
+    "description": "الوصف",
+    "favorite_button": "أضف إلى المفضلة",
+    "map_preview": "عرض الخريطة"
+  },
+  "profile": {
+    "title": "الملف الشخصي",
+    "name": "الاسم:",
+    "email": "البريد الإلكتروني:",
+    "na": "غير متوفر",
+    "enableBiometric": "تفعيل تسجيل الدخول البيومتري",
+    "disableBiometric": "تعطيل تسجيل الدخول البيومتري",
+    "logout": "تسجيل الخروج",
+    "loading": "جارٍ التحميل..."
+  },
+  "favorites": {
+    "title": "المفضلة",
+    "no_favorites": "لا توجد أحداث مفضلة."
+  },
+  "language_toggle": {
+    "to_arabic": "التبديل إلى العربية",
+    "to_english": "التبديل إلى الإنجليزية",
+    "restart_title": "مطلوب إعادة التشغيل",
+    "restart_message": "يجب إعادة تشغيل التطبيق لتطبيق تغيير الاتجاه.",
+    "ok": "موافق"
+  },
+  "welcome": "مرحبًا بك في سيتي بالس – مستكشف الفعاليات",
+  "events": {
+    "title": "الفعاليات",
+    "details": "تفاصيل الفعالية",
+    "loading": "جارٍ تحميل تفاصيل الفعالية...",
+    "when": "متى: {{date}} في {{time}}",
+    "noDescription": "وصف الفعالية غير متوفر.",
+    "venue": "المكان",
+    "selectSeat": "اختيار المقعد"
+  },
+  "eventCard": {
+    "viewDetails": "عرض التفاصيل"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "welcome": "Welcome to the City Pulse – Local Events Explorer",
+  "login": {
+    "title": "Login",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Login",
+    "signupButton": "Don't have an account? Sign Up",
+    "error": "Login Error",
+    "fillFields": "Please fill in all fields"
+  },
+  "signup": {
+    "title": "Sign Up",
+    "name": "Name",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "submit": "Sign Up",
+    "passwordsNotMatch": "Passwords do not match"
+  },
+  "home": {
+    "title": "Events",
+    "searchPlaceholder": "Search for events...",
+    "favorites": "Favorites",
+    "keyword": "Keyword",
+    "city": "City",
+    "search": "Search",
+    "noResults": "No events found.",
+    "error": "An error occurred while loading events."
+  },
+  "eventDetail": {
+    "title": "Event Details",
+    "location": "Location",
+    "date": "Date",
+    "description": "Description",
+    "map": "View on Map"
+  },
+  "profile": {
+    "title": "Profile",
+    "name": "Name:",
+    "email": "Email:",
+    "na": "N/A",
+    "enableBiometric": "Enable Biometric Login",
+    "disableBiometric": "Disable Biometric Login",
+    "logout": "Logout",
+    "loading": "Loading..."
+  },
+  "splash": {
+    "loading": "Loading..."
+  },
+  "errors": {
+    "emailRequired": "Email is required",
+    "passwordRequired": "Password is required",
+    "passwordMismatch": "Passwords do not match"
+  },
+  "success": {
+    "login": "Login successful!",
+    "signup": "Account created successfully!"
+  },
+  "language_toggle": {
+    "to_arabic": "Switch to Arabic",
+    "to_english": "Switch to English",
+    "restart_title": "Restart Required",
+    "restart_message": "The app needs to restart to apply the direction change.",
+    "ok": "OK"
+  },
+  "events": {
+    "title": "Events",
+    "details": "Event Details",
+    "loading": "Loading event details...",
+    "when": "When: {{date}} at {{time}}",
+    "noDescription": "Event description unavailable.",
+    "venue": "Venue",
+    "selectSeat": "Select Seat"
+  },
+  "eventCard": {
+    "viewDetails": "View Details"
+  }
+}
